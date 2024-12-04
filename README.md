@@ -7,10 +7,17 @@ MesCam is your one-stop e-commerce platform for discovering, comparing, and purc
 
 Key Features:
 **User Accounts:** Easily sign up and log in to personalize your shopping journey.
+
 **Product Search with Filters:** Find the perfect camera using advanced filters tailored to your preferences.
+
 **Smart Recommendations:** Get product suggestions based on your interests.
+
 **Secure Shopping and Payment:** Enjoy seamless purchasing with secure bank payment integration.
+
 **Order Updates:** Receive email notifications for successful payments and account creation.
+
 **Product Reviews:** Share your thoughts or explore others' feedback before making a purchase.
+
 **Order History:** Access a detailed view of all your past purchases.
+
 MesCam is committed to providing a user-friendly platform that makes shopping for cameras enjoyable and efficient. Explore now and capture life’s moments with the perfect gear!
