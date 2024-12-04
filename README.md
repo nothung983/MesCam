@@ -6,6 +6,7 @@ MesCam is an E-commerce Camera Store Website using Wordpress
 MesCam is your one-stop e-commerce platform for discovering, comparing, and purchasing the best cameras on the market. Designed with an intuitive and visually appealing interface, MesCam offers an effortless shopping experience, even for first-time users.
 
 Key Features:
+
 **User Accounts:** Easily sign up and log in to personalize your shopping journey.
 
 **Product Search with Filters:** Find the perfect camera using advanced filters tailored to your preferences.
