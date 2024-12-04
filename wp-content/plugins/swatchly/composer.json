@@ -1,0 +1,14 @@
+{
+    "name": "hasthemes/swatchly",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Swatchly\\": "includes/"
+        },
+        "files": [
+            "includes/functions.php",
+            "includes/ajax-actions.php"
+        ]
+    }
+}

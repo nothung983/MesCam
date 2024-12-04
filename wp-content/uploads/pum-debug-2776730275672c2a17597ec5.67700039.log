@@ -1,0 +1,4 @@
+Popup Maker Debug Logs:
+2024-11-07 02:46:47 - Log file initialized
+2024-11-07 02:46:47 - Subscriber table results: Created table pum_subscribers
+2024-11-07 02:46:47 - Subscriber table exists check failed! Last error from wpdb: 

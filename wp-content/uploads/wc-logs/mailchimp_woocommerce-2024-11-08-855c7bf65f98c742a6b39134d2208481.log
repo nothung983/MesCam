@@ -1,0 +1,5 @@
+2024-11-08T00:43:53+00:00 NOTICE handleOrderUpdate :: order_status
+2024-11-08T02:17:58+00:00 NOTICE member.sync :: user_my_account_opt_in_save 
+2024-11-08T02:17:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2024-11-08T02:22:04+00:00 NOTICE member.sync :: user_my_account_opt_in_save 
+2024-11-08T02:22:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
